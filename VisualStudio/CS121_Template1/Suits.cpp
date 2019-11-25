@@ -1,0 +1,1 @@
+enum suits {SPADES, HEARTS, DIAMONDS, CLUBS};
